@@ -19,6 +19,11 @@ This project focuses on making decisions:
 If you're interested in using this in real environments,  
 feel free to reach out or open a discussion.
 
+If you're interested in using this in real environments,  
+feel free to reach out or open a discussion.
+
+👉 Learn more: https://deus-ex-machina-ism.com
+
 ---
 
 AI はシグナルを出す存在です。でも現場では、そのシグナルを受けて「最終的に何をするか」——つまり **Decision** を下す必要があります。Decision Trace Studio は、その Decision の部分を人間が設計・管理・改善するためのツールです。AIの精度を上げるツールではなく、**意思決定そのものを設計・運用するインフラ**です。
@@ -143,3 +148,11 @@ docker compose up
 | 状態管理 | TanStack Query v5 + Zustand v5 |
 | バックエンド | FastAPI + Pydantic v2 |
 | データ永続化 | インメモリ（開発用） |
+
+---
+
+## Learn More
+
+For more details about Decision Trace Model and decision systems:
+
+👉 https://deus-ex-machina-ism.com

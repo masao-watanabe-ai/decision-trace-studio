@@ -153,6 +153,5 @@ docker compose up
 
 ## Learn More
 
-For more details about Decision Trace Model and decision systems:
-
-👉 https://deus-ex-machina-ism.com
+For more details, please refer to the blog:
+https://deus-ex-machina-ism.com/en/decision-trace-studio-decision-system-platform/

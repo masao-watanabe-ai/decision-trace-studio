@@ -155,3 +155,7 @@ docker compose up
 
 For more details, please refer to the blog:
 https://deus-ex-machina-ism.com/en/decision-trace-studio-decision-system-platform/
+
+## License
+
+MIT License © 2026 Masao Watanabe
